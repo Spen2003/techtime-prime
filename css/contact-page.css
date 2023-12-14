@@ -1,0 +1,42 @@
+body{			
+   background-color: #06028D;
+   color:#3FFF33;
+}
+
+nav ul li a:hover {
+   /*color:#3333ff;*/
+   background-color: green;
+   color: #3FFF33;
+} 
+
+nav ul li {
+    color: #3FFF33;
+	list-style-type: none;
+	text-decoration: none;
+	position: relative;
+} 
+
+
+nav {			
+    width:38%;
+	height: 20px;
+	background-color: #3FFF33;
+	position:relative;
+	left: 20px
+} 
+
+nav ul li {
+    color: white;
+	font-size: 15px;
+	list-style-type: none;
+	text-decoration: none;
+	float:left;
+	position: relative;
+)
+
+
+
+
+
+
+
